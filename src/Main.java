@@ -6,6 +6,12 @@ public class Main {
         // R-1.1 Exercise
         // InputAllBaseTypes.inputAllBaseTypes();
 
+        // R-1.3 Exercise
+        //System.out.println(IsMultiple.isMultiple(34443,3));
+
+        // R-1.4 Exercise
+        // System.out.println(IsEven.isEven(151523242));
+
 
     }
 }
