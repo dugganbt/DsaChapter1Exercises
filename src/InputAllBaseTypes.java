@@ -1,5 +1,13 @@
 import java.util.Scanner;
 
+/**
+ * @author: Brian Duggan
+ * <p>
+ * Solution to exercise R-1.1, Question: "Write a short Java method, inputAllBaseTypes,
+ * that inputs a different value of each base type from the standard input device
+ * and prints it back to the standard output device."
+ *
+ */
 public class InputAllBaseTypes {
 
     /**
