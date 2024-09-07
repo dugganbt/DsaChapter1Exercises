@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         // R-1.1 Exercise
-        InputAllBaseTypes.inputAllBaseTypes();
+        // InputAllBaseTypes.inputAllBaseTypes();
 
 
     }

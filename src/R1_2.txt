@@ -1,0 +1,9 @@
+Q: Suppose that we create an array A of GameEntry objects, which has an integer scores field,
+    and we clone A and store the result in an array B.
+    If we then im- mediately set A[4].score equal to 550,
+    what is the score value of the GameEntry object referenced by B[4]?
+
+My answer: While we are cloning the array object A, creating a new array object in memory with the
+reference variable name B pointing to a different array than reference variable name A, the cloning process is shallow.
+Therefore, the GameEntry objects referenced within the array are not also cloned, but reference the same objects in memory
+as the original array. Therefore, setting the score of A[4], will affect the score in B[4].
