@@ -15,6 +15,15 @@ public class Main {
         //R1.5 Exercise
         //System.out.println(SumOfAllIntegersLessEqualN.sumOfAllIntegersLessEqualN(4));
 
+        //R1.6 Exercise
+        //System.out.println(SumOddPositiveIntegersLessEqual.sumOddPositiveIntegersLessEqual(10));
+
+        //R1.7 Exercise
+        //System.out.println(SumOfSquaresLessEqualN.sumOfSquaresLessEqualN(4));
+
+        //R1.8 Exercise
+        //System.out.println(VowelInString.countVowelsInString("Onomatopoeia"));
+
 
 
 
