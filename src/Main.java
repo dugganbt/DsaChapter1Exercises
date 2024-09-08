@@ -24,6 +24,17 @@ public class Main {
         //R1.8 Exercise
         //System.out.println(VowelInString.countVowelsInString("Onomatopoeia"));
 
+        //R1.9 Exercise
+        //System.out.println(RemovePunctuationOfString.removePunctuationOfString("Hello, World! Goodbye, World!"));
+
+//        //R1.10 Exercise
+//        Flower flower = new Flower("Lilly", 2, 3.99f);
+//        Flower rose = new Flower();
+//        System.out.println(rose.getName() + " " + rose.getPrice());
+//        System.out.println(flower.getName() + " " + flower.getPrice());
+
+
+
 
 
 
