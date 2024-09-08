@@ -33,6 +33,16 @@ public class Main {
 //        System.out.println(rose.getName() + " " + rose.getPrice());
 //        System.out.println(flower.getName() + " " + flower.getPrice());
 
+        //C1.16 Exercise
+        //ThreeIntegersFormulaCheck.threeIntegersFormulaCheck();
+
+        //C1.17 Exercise
+//        int[] integerArray = {1,2,3,4,5};
+//        EvenPairInIntegerArray.evenPairInIntegerArray(integerArray);
+
+
+
+
 
 
 

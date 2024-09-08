@@ -1,0 +1,22 @@
+Question:
+Write a pseudocode description of a method that reverses an array of n integers,
+so that the numbers are listed in the opposite order than they were before,
+and compare this method to an equivalent Java method for doing the same thing.
+
+
+
+method reverseIntegerArray(int[] integerArray){
+
+    // create a new empty array with the same length as the original
+    int[] reverseArray = new int[integerArray.length];
+
+    int j = 0; // index that goes in ascending order
+
+    for (int i = integerArray.length - 1; i >=0; i--){ // index in descending order
+        reverseArray[j] = integerArray[i];
+        j++;
+    }
+
+    return reverseArray;
+
+}

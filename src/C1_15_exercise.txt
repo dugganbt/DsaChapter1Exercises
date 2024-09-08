@@ -1,0 +1,22 @@
+Question:
+Write a pseudocode description of a method for finding the smallest and largest numbers in an array
+of integers and compare that to a Java method that would do the same thing.
+
+
+Pseudocode:
+algorithm findMinMaxIntegers ( int[] integerArray){
+    int min = integerArray[0];
+    int max = integerArray[0];
+
+    for (int i : integerArray){
+
+        if (i > max) {
+            max = integerArray[i]
+        }
+
+        if (i < min){
+            min = integerArray[i]
+        }
+    }
+    return (min, max)
+}
