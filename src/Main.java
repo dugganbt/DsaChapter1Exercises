@@ -12,6 +12,11 @@ public class Main {
         // R-1.4 Exercise
         // System.out.println(IsEven.isEven(151523242));
 
+        //R1.5 Exercise
+        //System.out.println(SumOfAllIntegersLessEqualN.sumOfAllIntegersLessEqualN(4));
+
+
+
 
     }
 }
