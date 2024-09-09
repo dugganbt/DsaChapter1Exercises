@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
@@ -39,6 +41,33 @@ public class Main {
         //C1.17 Exercise
 //        int[] integerArray = {1,2,3,4,5};
 //        EvenPairInIntegerArray.evenPairInIntegerArray(integerArray);
+
+        //C1.18 Exercise
+        //euclidean norm
+//        double[] doubleArray = {1.0,2.0,3.0,4.0,5.0};
+//        System.out.println(Norm.norm(doubleArray));
+        //p-norm, where p=5
+//        double[] doubleArray = {1.0,2.0,3.0,4.0,5.0};
+//        System.out.println(Norm.norm(doubleArray, 5.0));
+
+        //C1.19 Exercise
+        //DivideBy2LessThan2.divideBy2LessThan2(1200);
+
+        //C1.20 Exercise
+//        float[] floatArray = {7.0f,5.0f,3.0f,1.0f,5.0f};
+//        System.out.println(AreFloatsDistinct.areFloatsDistinct(floatArray));
+
+
+        //C1.21 Exercise
+        // Create an array to hold integers from 1 to 52
+        int[] array = new int[52];
+
+        // Populate the array with values from 1 to 52
+        for (int i = 0; i < array.length; i++) {
+            array[i] = i + 1;
+        }
+        System.out.println(Arrays.toString(array)); //before
+        System.out.println(Arrays.toString(RandomIntegerArrayShuffle.randomIntegerArrayShuffle(array))); //after
 
 
 
