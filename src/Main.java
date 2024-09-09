@@ -81,7 +81,7 @@ public class Main {
 //        System.out.println(Arrays.toString(IntegerDotProduct.integerDotProduct(a, b)));
 
         //C1.24 Exercise
-
+        LineReverser.lineReverse();
 
 
 
