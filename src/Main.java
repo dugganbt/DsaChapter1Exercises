@@ -60,14 +60,29 @@ public class Main {
 
         //C1.21 Exercise
         // Create an array to hold integers from 1 to 52
-        int[] array = new int[52];
+//        int[] array = new int[52];
+//
+//        // Populate the array with values from 1 to 52
+//        for (int i = 0; i < array.length; i++) {
+//            array[i] = i + 1;
+//        }
+//        System.out.println(Arrays.toString(array)); //before
+//        System.out.println(Arrays.toString(RandomIntegerArrayShuffle.randomIntegerArrayShuffle(array))); //after
 
-        // Populate the array with values from 1 to 52
-        for (int i = 0; i < array.length; i++) {
-            array[i] = i + 1;
-        }
-        System.out.println(Arrays.toString(array)); //before
-        System.out.println(Arrays.toString(RandomIntegerArrayShuffle.randomIntegerArrayShuffle(array))); //after
+
+        //C1.22 Exercise
+        //Create a char array to permutate
+//        char[] charArray = {'B','R','I','A','N'};
+//        GeneratePermutations.generatePermutations(charArray,0,charArray.length-1);
+
+        //C1.23 Exercise
+//        int[] a = {1,2,3,4};
+//        int[] b = {5,6,7,8};
+//        System.out.println(Arrays.toString(IntegerDotProduct.integerDotProduct(a, b)));
+
+        //C1.24 Exercise
+
+
 
 
 
