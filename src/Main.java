@@ -90,6 +90,9 @@ public class Main {
         //C1.28 Exercise
         //SchoolPunishment.writeSchoolPunishment("I will never spam my friends again.", 100);
 
+        //C1.29 Exercise
+        BirthdayParadox.testBirthdayParadox(50);
+
 
 
 
