@@ -8,6 +8,9 @@ import java.util.ArrayList;
  */
 public class LineReverser {
 
+    /**
+     * User enters lines until and empty line is entered. Then the function prints the same lines in reverse order
+     */
     public static void lineReverse(){
 
         System.out.println("Enter multiple lines to reverse. Entering an empty line will signal end of input.");

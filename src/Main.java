@@ -80,8 +80,12 @@ public class Main {
 //        int[] b = {5,6,7,8};
 //        System.out.println(Arrays.toString(IntegerDotProduct.integerDotProduct(a, b)));
 
-        //C1.24 Exercise
-        LineReverser.lineReverse();
+        //C1.26 Exercise
+        //LineReverser.lineReverse();
+
+        //C1.27 Exercise
+        Calculator calculator = new Calculator();
+        calculator.calculate();
 
 
 
