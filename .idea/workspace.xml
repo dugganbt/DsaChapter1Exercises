@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad8c1b0e-7350-4187-b5bc-48af89e4cc18" name="Changes" comment="Up to P-1.26 added">
-      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+    <list default="true" id="ad8c1b0e-7350-4187-b5bc-48af89e4cc18" name="Changes" comment="Up to P-1.27 added">
+      <change afterPath="$PROJECT_DIR$/src/SchoolPunishment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LineReverser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LineReverser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -168,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725894765157</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Up to P-1.27 added">
+      <option name="closed" value="true" />
+      <created>1726041707617</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1726041707617</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -182,6 +189,7 @@
     <MESSAGE value="Up to C-1.21 added" />
     <MESSAGE value="Up to C-1.23 added" />
     <MESSAGE value="Up to P-1.26 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Up to P-1.26 added" />
+    <MESSAGE value="Up to P-1.27 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Up to P-1.27 added" />
   </component>
 </project>

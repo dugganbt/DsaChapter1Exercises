@@ -84,8 +84,11 @@ public class Main {
         //LineReverser.lineReverse();
 
         //C1.27 Exercise
-        Calculator calculator = new Calculator();
-        calculator.calculate();
+//        Calculator calculator = new Calculator();
+//        calculator.calculate();
+
+        //C1.28 Exercise
+        //SchoolPunishment.writeSchoolPunishment("I will never spam my friends again.", 100);
 
 
 
